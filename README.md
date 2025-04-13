@@ -19,6 +19,6 @@ options:
   -h, --help            show this help message and exit
   -p, --port PORT       port to listen
   -l, --leaderboards LEADERBOARDS [LEADERBOARDS ...] list of leaderboards to create/use
-`` `
+```
 ## Docker
  - run `up_run.sh <leaderboards>`  
