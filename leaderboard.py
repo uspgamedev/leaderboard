@@ -47,7 +47,7 @@ Endpoints:
  - GET /leaderboard/<leaderboard> - Top 10 scores;
  - GET /leaderboard/<leaderboard>/<size> - Top <size> scores;
  - GET /leaderboard/<leaderboard>/rank/<score> - Rank of score <score>;
- - POST /leaderboard/<leaderboard> - Sumbit name and score.""",
+ - POST /leaderboard/<leaderboard> - Submit name and score.""",
                     epilog='')
 
 
